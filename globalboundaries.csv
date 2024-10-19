@@ -1,0 +1,219 @@
+fid,shapeGroup,shapeType,shapeName
+1,AFG,ADM0,Afghanistan
+2,GBR,ADM0,United Kingdom
+3,ALB,ADM0,Albania
+4,DZA,ADM0,Algeria
+5,USA,ADM0,United States
+6,ATA,ADM0,Antarctica
+7,ATG,ADM0,Antigua & Barbuda
+8,ARG,ADM0,Argentina
+9,AND,ADM0,Andorra
+10,AGO,ADM0,Angola
+11,ARM,ADM0,Armenia
+12,NLD,ADM0,Netherlands
+13,AUS,ADM0,Australia
+14,AUT,ADM0,Austria
+15,AZE,ADM0,Azerbaijan
+16,BHS,ADM0,"Bahamas, The"
+17,BRB,ADM0,Barbados
+18,BLR,ADM0,Belarus
+19,BEL,ADM0,Belgium
+20,BLZ,ADM0,Belize
+21,BTN,ADM0,Bhutan
+22,BOL,ADM0,Bolivia
+23,BIH,ADM0,Bosnia & Herzegovina
+24,BWA,ADM0,Botswana
+25,NOR,ADM0,Norway
+26,COL,ADM0,Colombia
+27,COM,ADM0,Comoros
+28,BRA,ADM0,Brazil
+29,FRA,ADM0,France
+30,COD,ADM0,"Congo, Dem Rep of the"
+31,COG,ADM0,"Congo, Rep of the"
+32,NZL,ADM0,New Zealand
+33,BRN,ADM0,Brunei
+34,BGR,ADM0,Bulgaria
+35,BFA,ADM0,Burkina Faso
+36,BDI,ADM0,Burundi
+37,CPV,ADM0,Cabo Verde
+38,KHM,ADM0,Cambodia
+39,CMR,ADM0,Cameroon
+40,CAN,ADM0,Canada
+41,CRI,ADM0,Costa Rica
+42,CIV,ADM0,Cote d'Ivoire
+43,HRV,ADM0,Croatia
+44,CUB,ADM0,Cuba
+45,CAF,ADM0,Central African Rep
+46,TCD,ADM0,Chad
+47,CHL,ADM0,Chile
+48,CHN,ADM0,China
+49,CYP,ADM0,Cyprus
+50,CZE,ADM0,Czechia
+51,DNK,ADM0,Denmark
+52,DJI,ADM0,Djibouti
+53,DMA,ADM0,Dominica
+54,DOM,ADM0,Dominican Republic
+55,ECU,ADM0,Ecuador
+56,EGY,ADM0,Egypt
+57,SLV,ADM0,El Salvador
+58,GNQ,ADM0,Equatorial Guinea
+59,ERI,ADM0,Eritrea
+60,EST,ADM0,Estonia
+61,ETH,ADM0,Ethiopia
+62,FJI,ADM0,Fiji
+63,FIN,ADM0,Finland
+64,GAB,ADM0,Gabon
+65,GMB,ADM0,"Gambia, The"
+66,MAR,ADM0,Morocco
+67,MOZ,ADM0,Mozambique
+68,NAM,ADM0,Namibia
+69,GEO,ADM0,Georgia
+70,DEU,ADM0,Germany
+71,GHA,ADM0,Ghana
+72,GRC,ADM0,Greece
+73,GRL,ADM0,Greenland
+74,GRD,ADM0,Grenada
+75,NRU,ADM0,Nauru
+76,GTM,ADM0,Guatemala
+77,NPL,ADM0,Nepal
+78,GIN,ADM0,Guinea
+79,GNB,ADM0,Guinea-Bissau
+80,GUY,ADM0,Guyana
+81,HTI,ADM0,Haiti
+82,JOR,ADM0,Jordan
+83,HND,ADM0,Honduras
+84,HUN,ADM0,Hungary
+85,ISL,ADM0,Iceland
+86,IDN,ADM0,Indonesia
+87,IRN,ADM0,Iran
+88,IRQ,ADM0,Iraq
+89,IRL,ADM0,Ireland
+90,KAZ,ADM0,Kazakhstan
+91,KEN,ADM0,Kenya
+92,KIR,ADM0,Kiribati
+93,PRK,ADM0,"Korea, North"
+94,KOR,ADM0,"Korea, South"
+95,XKX,ADM0,Kosovo
+96,SRB,ADM0,Serbia
+97,SYC,ADM0,Seychelles
+98,SLE,ADM0,Sierra Leone
+99,SGP,ADM0,Singapore
+100,ITA,ADM0,Italy
+101,JAM,ADM0,Jamaica
+102,JPN,ADM0,Japan
+103,KGZ,ADM0,Kyrgyzstan
+104,LAO,ADM0,Laos
+105,LVA,ADM0,Latvia
+106,LBN,ADM0,Lebanon
+107,LSO,ADM0,Lesotho
+108,LBR,ADM0,Liberia
+109,LBY,ADM0,Libya
+110,LIE,ADM0,Liechtenstein
+111,LTU,ADM0,Lithuania
+112,LUX,ADM0,Luxembourg
+113,MCO,ADM0,Monaco
+114,MNG,ADM0,Mongolia
+115,MNE,ADM0,Montenegro
+116,MKD,ADM0,Macedonia
+117,MDG,ADM0,Madagascar
+118,MWI,ADM0,Malawi
+119,MYS,ADM0,Malaysia
+120,MDV,ADM0,Maldives
+121,MLI,ADM0,Mali
+122,MLT,ADM0,Malta
+123,MHL,ADM0,Marshall Is
+124,MRT,ADM0,Mauritania
+125,MUS,ADM0,Mauritius
+126,MEX,ADM0,Mexico
+127,FSM,ADM0,"Micronesia, Fed States of"
+128,MDA,ADM0,Moldova
+129,NIC,ADM0,Nicaragua
+130,OMN,ADM0,Oman
+131,PAK,ADM0,Pakistan
+132,PLW,ADM0,Palau
+133,PAN,ADM0,Panama
+134,PNG,ADM0,Papua New Guinea
+135,PRY,ADM0,Paraguay
+136,PER,ADM0,Peru
+137,PHL,ADM0,Philippines
+138,POL,ADM0,Poland
+139,PRT,ADM0,Portugal
+140,ROU,ADM0,Romania
+141,RUS,ADM0,Russia
+142,RWA,ADM0,Rwanda
+143,WSM,ADM0,Samoa
+144,SMR,ADM0,San Marino
+145,TON,ADM0,Tonga
+146,TTO,ADM0,Trinidad & Tobago
+147,TUN,ADM0,Tunisia
+148,TKM,ADM0,Turkmenistan
+149,STP,ADM0,Sao Tome & Principe
+150,SAU,ADM0,Saudi Arabia
+151,SEN,ADM0,Senegal
+152,SVK,ADM0,Slovakia
+153,SVN,ADM0,Slovenia
+154,SLB,ADM0,Solomon Is
+155,SOM,ADM0,Somalia
+156,ZAF,ADM0,South Africa
+157,SSD,ADM0,South Sudan
+158,ESP,ADM0,Spain
+159,LKA,ADM0,Sri Lanka
+160,KNA,ADM0,St Kitts & Nevis
+161,LCA,ADM0,St Lucia
+162,VCT,ADM0,St Vincent & the Grenadines
+163,SDN,ADM0,Sudan
+164,SUR,ADM0,Suriname
+165,SWZ,ADM0,Swaziland
+166,SWE,ADM0,Sweden
+167,CHE,ADM0,Switzerland
+168,SYR,ADM0,Syria
+169,TWN,ADM0,Taiwan
+170,TJK,ADM0,Tajikistan
+171,TZA,ADM0,Tanzania
+172,THA,ADM0,Thailand
+173,TLS,ADM0,Timor-Leste
+174,TGO,ADM0,Togo
+175,TUV,ADM0,Tuvalu
+176,UGA,ADM0,Uganda
+177,URY,ADM0,Uruguay
+178,UZB,ADM0,Uzbekistan
+179,VUT,ADM0,Vanuatu
+180,VAT,ADM0,Vatican City
+181,VEN,ADM0,Venezuela
+182,VNM,ADM0,Vietnam
+183,ZMB,ADM0,Zambia
+184,ZWE,ADM0,Zimbabwe
+185,YEM,ADM0,Yemen
+186,UKR,ADM0,Ukraine
+187,BHR,ADM0,Bahrain
+188,KWT,ADM0,Kuwait
+189,QAT,ADM0,Qatar
+190,ARE,ADM0,United Arab Emirates
+191,TUR,ADM0,Turkey
+192,ISR,ADM0,Israel
+193,BGD,ADM0,Bangladesh
+194,MMR,ADM0,Burma
+195,IND,ADM0,India
+196,BEN,ADM0,Benin
+197,NER,ADM0,Niger
+198,NGA,ADM0,Nigeria
+199,111,DISP,Abyei
+200,112,DISP,Aksai Chin
+201,113,DISP,CH-IN
+202,114,DISP,Demchok
+203,115,DISP,Dragonja
+204,116,DISP,Dramana-Shakatoe
+205,117,DISP,Falkland Islands (UK)
+206,118,DISP,Gaza Strip
+207,119,DISP,Kalapani
+208,120,DISP,Isla Brasilera
+209,121,DISP,Siachen-Saltoro
+210,122,DISP,Koualou
+211,123,DISP,Liancourt Rocks
+212,124,DISP,No Man's Land
+213,125,DISP,Paracel Is
+214,126,DISP,Sanafir & Tiran Is.
+215,127,DISP,Senkakus
+216,128,DISP,Spratly Is
+217,129,DISP,West Bank
+218,ESH,DISP,Western Sahara
